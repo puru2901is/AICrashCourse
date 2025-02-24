@@ -99,4 +99,4 @@
 4. Fine-tuning pre-trained LLMs for domain-specific knowledge
     - Video: [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
   
-### ps: I am making youtube videos to share the similar content. You can subscribe it too. [BlogYourCode](https://www.youtube.com/watch?v=U93RWtA5cCo)
+### ps: I am making youtube videos to share the similar content.Check that out too. [BlogYourCode](https://www.youtube.com/watch?v=U93RWtA5cCo)
